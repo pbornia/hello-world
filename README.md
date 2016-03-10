@@ -1,5 +1,3 @@
-# hello-world
-
 Hello, guys.
 
 My name is Pavlo. 
